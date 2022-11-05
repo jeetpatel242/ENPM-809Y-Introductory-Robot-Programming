@@ -1,0 +1,13 @@
+ENPM809Y RWA-2
+GROUP-8: DHYEY PATEL, JEET PATEL, MRUGESH SHAH
+
+Instructions to run the code:
+1. Navigate to rwa2_simulator package to location RWA2_simulator/mms/bin
+2. Enter the following code in terminal to open the simulator: ./mms
+3. Create new project and add following details:
+	a) Project Name: RWA2_GROUP8_1
+	b) Directory: Navigate to the uploaded package
+	c) Build Command: g++ src/main.cpp src/mouse.cpp src/node.cpp src/api.cpp
+	d) Run command: ./a.out
+4. Then click build and wait for code to build.
+5. Click run to find the path of mouse.
